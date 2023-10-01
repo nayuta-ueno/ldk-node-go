@@ -1,0 +1,6 @@
+ldk-node-go
+
+*.sqlite
+*.log
+
+ldk_node/
