@@ -1,6 +1,7 @@
 ldk-node-go
+seed.bin
 
 *.sqlite
 *.log
-
-ldk_node/
+wallet/
+logs/
